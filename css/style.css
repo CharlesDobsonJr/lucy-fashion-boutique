@@ -339,19 +339,19 @@ body {
   color: #fff;
 }
 
-#sm-banner{
+#sm-banner {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
-#sm-banner .banner-box{
+#sm-banner .banner-box {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
   background-image: url(../img/banner/b17.jpg);
-  min-width: 860px;
+  min-width: 760px;
   height: 50vh;
   background-size: cover;
   background-position: center;
